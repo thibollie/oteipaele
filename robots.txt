@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaevohro.huk.com.ua/sitemap.xml
